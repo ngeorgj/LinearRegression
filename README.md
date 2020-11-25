@@ -1,5 +1,5 @@
 # LinearRegression
-Class of simple linear regression with extra functions.
+Simple linear regression class with extra functions.
 
 Linear Regression Example
 
